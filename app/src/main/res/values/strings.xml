@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SuperCalculadora</string>
+    <string name="variavel_x">Variavel X:</string>
+    <string name="x">X</string>
+    <string name="set_variavel_x">SET VARIAVEL X</string>
+    <string name="variavel_y">Variavel Y:</string>
+    <string name="y">Y</string>
+    <string name="set_variavel_y">SET VARIAVEL Y</string>
+    <string name="soma">SOMA:</string>
+    <string name="resultado">RESULTADO</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="realizando_calculos">Realizando Calculos</string>
+    <string name="labelvariavel">LabelVariavel</string>
+    <string name="ok">OK</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="cancelado">Cancelado</string>
+</resources>
